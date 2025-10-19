@@ -1,0 +1,1 @@
+{"version":3,"file":"version-check-worker.d.ts","sourceRoot":"","sources":["../../src/workers/version-check-worker.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAClC,OAAO,EAAE,UAAU,EAAE,MAAM,eAAe,CAAC;AAE3C,qBAAa,kBAAmB,YAAW,MAAM;IACnC,OAAO,CAAC,QAAQ,CAAC,UAAU;gBAAV,UAAU,EAAE,UAAU,GAAG,SAAS;IACzD,MAAM,IAAI,OAAO,CAAC,IAAI,CAAC;CAU9B"}

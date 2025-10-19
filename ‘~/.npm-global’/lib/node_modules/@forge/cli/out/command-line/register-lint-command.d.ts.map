@@ -1,0 +1,1 @@
+{"version":3,"file":"register-lint-command.d.ts","sourceRoot":"","sources":["../../src/command-line/register-lint-command.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,MAAM,wBAAwB,CAAC;AAItD,MAAM,WAAW,gBAAgB;IAC/B,WAAW,EAAE,MAAM,CAAC;IACpB,GAAG,EAAE,OAAO,CAAC;CACd;AAED,eAAO,MAAM,gBAAgB,6CAA8C,YAAY,KAAG,IAUzF,CAAC"}

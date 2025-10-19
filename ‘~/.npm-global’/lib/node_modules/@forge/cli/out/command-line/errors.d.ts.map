@@ -1,0 +1,1 @@
+{"version":3,"file":"errors.d.ts","sourceRoot":"","sources":["../../src/command-line/errors.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,mBAAmB,CAAC;AAEhD,qBAAa,cAAc;IACzB,OAAO,CAAC,MAAM,CAAU;gBAEZ,MAAM,EAAE,KAAK,EAAE;IAIpB,SAAS;CAGjB;AAED,qBAAa,cAAe,SAAQ,WAAW;;IAKtC,WAAW,IAAI,OAAO;CAG9B"}

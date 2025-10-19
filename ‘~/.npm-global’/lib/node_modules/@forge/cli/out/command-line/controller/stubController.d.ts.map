@@ -1,0 +1,1 @@
+{"version":3,"file":"stubController.d.ts","sourceRoot":"","sources":["../../../src/command-line/controller/stubController.ts"],"names":[],"mappings":"AAQA,UAAU,aAAa;IACrB,OAAO,EAAE,MAAM,CAAC;IAChB,OAAO,EAAE,MAAM,CAAC;CACjB;AAED,qBAAa,cAAc;IACZ,GAAG,CAAC,EAAE,OAAO,EAAE,OAAO,EAAE,EAAE,aAAa;CAGrD"}

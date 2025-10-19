@@ -1,0 +1,1 @@
+{"version":3,"file":"graphql-client.d.ts","sourceRoot":"","sources":["../../src/providers/graphql-client.ts"],"names":[],"mappings":"AAAA,OAAO,EAAY,aAAa,EAAwB,MAAM,mBAAmB,CAAC;AAElF,OAAO,EAAE,kBAAkB,EAAE,uBAAuB,EAAE,MAAM,sBAAsB,CAAC;AAEnF,qBAAa,aAAc,YAAW,uBAAuB;IAC/C,OAAO,CAAC,QAAQ,CAAC,aAAa;gBAAb,aAAa,EAAE,aAAa;IAE5C,iBAAiB,CAAC,OAAO,EAAE,kBAAkB;CA+C3D"}
