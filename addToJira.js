@@ -3,7 +3,7 @@ import dotenv from "dotenv";
 dotenv.config();
 
 // ---------- CONFIGURE THESE ----------
-const JIRA_BASE_URL = "https.sacchins.atlassian.net";
+const JIRA_BASE_URL = "https://sacchins.atlassian.net";
 const PROJECT_KEY = "KAN";
 
 // ---------- AUTH VALUES ----------
